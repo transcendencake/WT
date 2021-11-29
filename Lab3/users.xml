@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistance.models>
+    <persistance.models.User>
+        <id>0</id>
+        <name>b</name>
+        <password>ICy5YqxZB1uWSwcVLSNLcA==</password>
+        <email>a@example.com</email>
+        <role>admin</role>
+    </persistance.models.User>
+    <persistance.models.User>
+        <id>1</id>
+        <name>c</name>
+        <password>ICy5YqxZB1uWSwcVLSNLcA==</password>
+        <email>c@example.com</email>
+        <role>user</role>
+    </persistance.models.User>
+</persistance.models>
